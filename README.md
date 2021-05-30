@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, Folks! 👋
 
 - 🔭 I’m currently gaining industrial experience
 - 🌱 I’m currently learning Full Stack Development
