@@ -4,7 +4,7 @@
 
 - 🔭 **I’m currently gaining industrial experience**.   
 - 🌱 **I’m currently learning Full Stack Development**.
-- 👯 **I’m looking to collaborate on Web Development, Python**.      
+- 👯 **I’m looking to collaborate on ReactJS, Python**.      
 - 🤔 **I’m looking for help with Internships, Freelancing**.
 - 😄 **Pronouns: He/Him/His**.
 - ⚡ **Fun fact: I spend 12 hours watching web series**.
