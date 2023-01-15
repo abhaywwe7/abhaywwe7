@@ -14,7 +14,7 @@
 
 - 💻 &nbsp; **Python | Java | C++ | C | MySQL**
 
-- 🌐 &nbsp; **HTML | CSS | JavaScript | MERN**
+- 🌐 &nbsp; **HTML | CSS | Django | MERN**
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=abhaywwe7&&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white">
